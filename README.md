@@ -86,7 +86,7 @@
 <img src="https://screenshotscdn.firefoxusercontent.com/images/fb665e62-beeb-4740-88a8-a70d51492133.png">
 
 
-<img src="http://recordit.co/njk7gDErPv" width=200><br>
+<img src="http://g.recordit.co/njk7gDErPv.gif" width=200><br>
 ---
 
 ### App Pitch Presentation
