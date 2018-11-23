@@ -83,8 +83,8 @@
 ### Wireframes
 // TODO: Add Wireframe Images
 
+<img src="https://screenshotscdn.firefoxusercontent.com/images/fb665e62-beeb-4740-88a8-a70d51492133.png">
 
-https://screenshotscdn.firefoxusercontent.com/images/fb665e62-beeb-4740-88a8-a70d51492133.png
 ---
 
 ### App Pitch Presentation
